@@ -10,6 +10,19 @@ MockMate is a full-stack web application built to simulate real-world interview 
 📦 [GitHub Repository](https://github.com/v-anushka05/MockMate)
 
 ---
+Take a quick look at some core parts of the MockMate platform:
+
+#### 🔐 Login & Signup  
+<img src="https://raw.githubusercontent.com/v-anushka05/MockMate/main/Screenshot%202025-06-08%20145724.png" alt="Login Page" width="700"/>
+
+#### 📅 Schedule a Mock Interview  
+<img src="https://raw.githubusercontent.com/v-anushka05/MockMate/main/Screenshot%202025-06-08%20150923.png" alt="Schedule Page" width="700"/>
+
+#### 📬 Email Notification Trigger  
+<img src="https://raw.githubusercontent.com/v-anushka05/MockMate/main/Screenshot%202025-06-08%20151439.png" alt="Email Sent" width="700"/>
+
+#### 📊 Dashboard View  
+<img src="https://raw.githubusercontent.com/v-anushka05/MockMate/main/Screenshot%202025-06-08%20151714.png" alt="Dashboard" width="700"/>
 
 ## 📌 Table of Contents
 
